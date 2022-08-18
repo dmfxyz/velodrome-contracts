@@ -13,3 +13,6 @@
 [submodule "lib/LayerZero"]
 	path = lib/LayerZero
 	url = https://github.com/LayerZero-Labs/LayerZero
+[submodule "lib/openzepplin-contracts"]
+	path = lib/openzepplin-contracts
+	url = https://github.com/openzepplin/openzepplin-contracts
